@@ -6,4 +6,4 @@
 * Only push features branches if they're complete, including passing tests
 * Only push to master if it's in the testing branch and everything passes.
 
-[!git workflow](http://i.minus.com/ibNlsEL1zJIOS.png)
+<img src="http://i.minus.com/ibNlsEL1zJIOS.png">
